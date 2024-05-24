@@ -4,13 +4,12 @@ info:
   version: 1.0.0
   license:
     name: MIT License
-    url: https://github.com/kuklaph/cascade-cms-api/blob/main/LICENSE
+    url: https://github.com/cducote/open-api/
   contact:
     name: Official Cascade Rest API Documentation
     url: "https://www.hannonhill.com/cascadecms/latest/developing-in-cascade/rest-api/index.html"
   description: |
-    *This was created by [Kuklaph](https://github.com/kuklaph) and is not an official Cascade API document. I do not claim to own any rights of Hannon Hill or Cascade in anyway.*
-
+   
     The WSDL was initially converted to JSDoc types (for usage in the Cascade CMS API Library) and then converted to openAPI specs.
 
     This documentation is based on the [Cascade CMS API Library](https://github.com/kuklaph/cascade-cms-api) which only uses POST requests.
